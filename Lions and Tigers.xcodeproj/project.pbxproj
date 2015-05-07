@@ -13,6 +13,7 @@
 		3DC16A961AF82A1900A8425F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DC16A951AF82A1900A8425F /* Images.xcassets */; };
 		3DC16A991AF82A1900A8425F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3DC16A971AF82A1900A8425F /* LaunchScreen.xib */; };
 		3DC16AA51AF82A1900A8425F /* Lions_and_TigersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC16AA41AF82A1900A8425F /* Lions_and_TigersTests.swift */; };
+		3DC16AAF1AF82DEC00A8425F /* Tiger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC16AAE1AF82DEC00A8425F /* Tiger.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		3DC16A9E1AF82A1900A8425F /* Lions and TigersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Lions and TigersTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DC16AA31AF82A1900A8425F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3DC16AA41AF82A1900A8425F /* Lions_and_TigersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lions_and_TigersTests.swift; sourceTree = "<group>"; };
+		3DC16AAE1AF82DEC00A8425F /* Tiger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tiger.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				3DC16A8E1AF82A1900A8425F /* AppDelegate.swift */,
 				3DC16A901AF82A1900A8425F /* ViewController.swift */,
+				3DC16AAE1AF82DEC00A8425F /* Tiger.swift */,
 				3DC16A921AF82A1900A8425F /* Main.storyboard */,
 				3DC16A951AF82A1900A8425F /* Images.xcassets */,
 				3DC16A971AF82A1900A8425F /* LaunchScreen.xib */,
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DC16A911AF82A1900A8425F /* ViewController.swift in Sources */,
+				3DC16AAF1AF82DEC00A8425F /* Tiger.swift in Sources */,
 				3DC16A8F1AF82A1900A8425F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
